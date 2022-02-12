@@ -7,6 +7,7 @@ from typing import Any
 class Queue:
     def __init__(self):
         ...  # todo для очереди можно использовать python list
+    #
 
     def enqueue(self, elem: Any) -> None:
         """
