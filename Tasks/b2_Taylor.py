@@ -22,5 +22,8 @@ def sinx(x: Union[int, float]) -> float:
     :param x: x value
     :return: sin(x) value
     """
+
+
+
     print(x)
     return 0
